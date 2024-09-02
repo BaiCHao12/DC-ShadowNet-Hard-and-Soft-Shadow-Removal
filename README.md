@@ -1,4 +1,6 @@
 # DC-ShadowNet (ICCV'2021)
+##其它图像去除光斑、反光等的参考连接
+https://cloud.tencent.com/developer/article/1976089
 
 ## Introduction
 > [DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using
